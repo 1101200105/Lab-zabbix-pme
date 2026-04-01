@@ -49,7 +49,8 @@ Utilisateurs créés : ilyes, finance, rh, technicien
 
 Hôtes supervisés : technicien1 (Windows 10) + Zabbix server (Debian)
 
-<img width="1028" height="768" alt="Hotes zabbix" src="https://github.com/user-attachments/assets/e60f71cc-21ba-4343-b618-836c2d1010ed" />
+<img width="1038" height="783" alt="Hotes zabbix" src="https://github.com/user-attachments/assets/875bbab7-a7c5-4d5a-82dd-739d4989e67c" />
+
 
 ---
 
@@ -57,8 +58,8 @@ Hôtes supervisés : technicien1 (Windows 10) + Zabbix server (Debian)
 
 Simulation d'une panne sur technicien1 - Zabbix détecte automatiquement et génère une alerte.
 
+<img width="1031" height="774" alt="probleme client" src="https://github.com/user-attachments/assets/d57af822-d41a-4e0e-82f6-22d2e2f6b490" />
 
-<img width="1025" height="773" alt="probleme client" src="https://github.com/user-attachments/assets/d6dbeed4-6a7e-4f78-a4d9-1fcebd7a60a5" />
 
 ---
 
