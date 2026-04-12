@@ -73,5 +73,5 @@ Windows Server 2022 - Active Directory - DHCP - DNS - VMware Workstation - Debia
 
 MAZOUZI Ilyes - Diplômé TSSR - En recherche d'alternance Bachelor ASR
 
-ilyes.mazouzi1@gmail.com - Lens (62)
+ilyes.mazouzi1@gmail.com
 
