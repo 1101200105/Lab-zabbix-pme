@@ -39,7 +39,7 @@ Domaine : zabbix.local
 
 OUs créées : Finance, Informatique, RH, Users
 
-Utilisateurs créés : ilyes, finance, rh, technicien
+Utilisateurs créés : finance, rh, technicien
 <img width="1025" height="769" alt="Domaine" src="https://github.com/user-attachments/assets/3f55c069-b2ae-4c71-a6fc-2ee1b692005f" />
 
 
